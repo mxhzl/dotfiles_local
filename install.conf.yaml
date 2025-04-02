@@ -7,4 +7,5 @@
 
 - link:
     ~/.gitconfig.local:
+    ~/.config/fish/config.fish.local: config/fish/config.fish.local
 
